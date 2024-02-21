@@ -4,6 +4,7 @@ package main
 import "fmt"
 
 func main() {
+	fmt.Println("This program demonstrates functions!")
 	// A loop
 	for i := 0; i < 4; i++ {
 		fmt.Println("Hello, World!")
