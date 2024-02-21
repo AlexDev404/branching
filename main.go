@@ -8,4 +8,5 @@ func main() {
 	for i := 0; i < 4; i++ {
 		fmt.Println("Hello, World!")
 	}
+	fmt.Println("Goodbye, World!")
 }
