@@ -3,6 +3,11 @@ package main
 
 import "fmt"
 
+func decrement(value int) int {
+	fmt.Println("Decrementing the value...")
+	return value - 1
+}
+
 // The main function
 func main() {
 	fmt.Println("This program demonstrates functions!")
