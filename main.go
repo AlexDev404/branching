@@ -8,6 +8,12 @@ func decrement(value int) int {
 	return value - 1
 }
 
+<<<<<<< HEAD
+		fmt.Println("The value is:", i)
+=======
+		fmt.Println("apple")
+>>>>>>> master
+
 // The main function
 func main() {
 	fmt.Println("This program demonstrates functions!")
