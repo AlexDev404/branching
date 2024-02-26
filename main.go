@@ -15,7 +15,7 @@ func main() {
 	// Increments the value passed in by 1
 	for i := 0; i < 4; i++ {
 		fmt.Println("Hello, World!")
-		fmt.Println("This program functions!")
+		fmt.Println("orange")
 	}
 	fmt.Println("Goodbye, World!")
 }
